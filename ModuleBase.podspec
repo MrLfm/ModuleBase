@@ -12,6 +12,7 @@ Pod::Spec.new do |s|
   s.summary          = '基础组件，存放常用的第三方库（如网络请求、图片加载库等）、多语言翻译、图片视频等资源。'
 
   s.homepage         = 'https://github.com/MrLfm/ModuleBase'
+  s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'MrLfm' => 'lfm_1992@126.com' }
   s.source           = { :git => 'https://github.com/MrLfm/ModuleBase.git', :tag => s.version.to_s }
 
