@@ -1,0 +1,16 @@
+PODS:
+  - ModuleBase (0.1.0)
+
+DEPENDENCIES:
+  - ModuleBase (from `../`)
+
+EXTERNAL SOURCES:
+  ModuleBase:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ModuleBase: 60be0130623b7c47da8c012209b4ae368bb5cab9
+
+PODFILE CHECKSUM: 4f013f107ad33beaf8291c2af3216d6e0ff7dad5
+
+COCOAPODS: 1.16.2

@@ -1,0 +1,22 @@
+{
+  "name": "ModuleBase",
+  "version": "0.1.0",
+  "summary": "A short description of ModuleBase.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/MrLfm/ModuleBase",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "MrLfm": "lfm_1992@126.com"
+  },
+  "source": {
+    "git": "https://github.com/MrLfm/ModuleBase.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "ModuleBase/Classes/**/*"
+}
